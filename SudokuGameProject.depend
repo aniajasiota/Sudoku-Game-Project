@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1746041521 source:c:\users\xanniaqx\documents\c++\sudokugameproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
